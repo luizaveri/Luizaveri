@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banner.png.jpeg" width="100%" alt="Banner Luiza Veríssimo">
+</p>
 Olá! Eu sou a Luiza Veríssimo 👋
 
 🎓 **Ciência da Computação | Tecnologia | Dados | Desenvolvimento de Sistemas**
